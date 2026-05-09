@@ -19,6 +19,7 @@ A daily log of my SQL learning progress, built with PostgreSQL & pgAdmin.
 |-----|---------------|
 | Day 1 | Setup, PostgreSQL installation |
 | Day 2 | CREATE TABLE, INSERT, UPDATE, DELETE, DROP TABLE, SELECT |
+| Day 4 | Filtering & Queries: SELECT, WHERE, LIKE, ORDER BY, LIMIT |
 
 ## Goals
 - [ ] Master SQL basics
