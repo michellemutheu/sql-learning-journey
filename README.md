@@ -56,6 +56,8 @@ showing which departments are overpaid, understaffed, or most valuable.
 | Day 4 | Filtering & Queries: SELECT, WHERE, LIKE, ORDER BY, LIMIT |
 | Day 5 | Aggregate Functions: COUNT, SUM, AVG, MAX, MIN |
 | Day 6 | GROUP BY and HAVING Analytics                  |
+| Day 7 | INSERT, ALTER, AVG salary, GROUP BY, HAVING, Reports |
+
 ## Goals
 - [ ] Master SQL basics
 - [ ] Learn JOIN queries
