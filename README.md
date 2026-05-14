@@ -57,6 +57,34 @@ showing which departments are overpaid, understaffed, or most valuable.
 | Day 5 | Aggregate Functions: COUNT, SUM, AVG, MAX, MIN |
 | Day 6 | GROUP BY and HAVING Analytics                  |
 | Day 7 | INSERT, ALTER, AVG salary, GROUP BY, HAVING, Reports |
+| Day 8 | Milestone 1 - Major project |
+
+## 🔄 Milestone 2 – Relational Database Design (In Progress)
+
+### 🎯 Goal
+Move from single-table thinking to multi-table professional database design.
+
+| Lesson | Topic | Status |
+|--------|-------|--------|
+| Lesson 1 | Why Relationships Exist | ✅ |
+| Lesson 2 | PRIMARY KEY & FOREIGN KEY | ✅ |
+| Lesson 3 | INNER JOIN | ✅ |
+| Lesson 4 | LEFT JOIN | 🔄 In Progress |
+| Lesson 5 | Multi-table Reporting | ⏳ |
+| Lesson 6 | Relational Mini Project | ⏳ |
+| — | Milestone 2 Major Project | ⏳ |
+
+### 🧠 Skills Being Built
+- Relational database thinking & normalization basics
+- PRIMARY KEY & FOREIGN KEY — referential integrity
+- INNER JOIN — combining matched records across tables
+- LEFT JOIN — detecting missing relationships & NULL behavior
+- Multi-table querying with table aliases
+- Professional SQL habits — clean naming, qualified columns, scalable queries
+
+---
+
+## 📁 Repository Structure
 
 ## Goals
 - [ ] Master SQL basics
