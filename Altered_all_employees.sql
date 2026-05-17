@@ -1,0 +1,2 @@
+ALTER TABLE mich_employees
+ALTER COLUMN salary TYPE DECIMAL(10, 2);
